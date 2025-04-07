@@ -1,0 +1,56 @@
+name: fitness_test
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  firebase_database: ^11.3.5
+  cloud_firestore: ^5.6.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/google.png
+    - assets/icons/facebook.png
+    - assets/pics/dumbbell.png
+    - assets/pics/new_female_image.avif
+    - assets/pics/new_male_image.avif
+    - assets/pics/goal1.png
+    - assets/pics/goal2.png
+    - assets/pics/goal3.png
+    - assets/pics/goal4.png
+    - assets/pics/health.png
+    - assets/pics/health-1.png
+    - assets/pics/health1.png
+    - assets/pics/health2.png
+    - assets/pics/food1.png
+    - assets/pics/food2.png
+    - assets/pics/food3.png
+    - assets/pics/food4.png
+    - assets/pics/workout1.png
+    - assets/pics/workout2.png
+    - assets/pics/cardio1.png
+    - assets/pics/cardio2.png
+    - assets/pics/cardio3.png
+    - assets/pics/cardio4.png
+    - assets/pics/cardio5.png
+    - assets/pics/cardio6.png
+    - assets/pics/bicep.png
+    - assets/pics/tricep.png
+    - assets/pics/forearm.png
+    - assets/pics/bullseye.png
+    - assets/pics/workout4.png
+    - assets/pics/profile.png
+    - assets/icons/tick.png
